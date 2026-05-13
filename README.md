@@ -21,4 +21,4 @@ This project analyzes regional sales performance and employee targets using Micr
 
 ## Dashboard Preview
 
-![Dashboard](Sales Dashboard.png)
+![Dashboard](sales_dashboard.png)
