@@ -8,7 +8,8 @@ This project analyzes regional sales performance and employee targets using Micr
 - Regional Sales Dashboard
 - KPI Reporting
 - Conditional Formatting
-- Bar Chart & Pie Chart Visualization
+- Bar Chart Visualization
+- Pie Chart Visualization
 
 ## Tools Used
 - Microsoft Excel
@@ -16,8 +17,8 @@ This project analyzes regional sales performance and employee targets using Micr
 
 ## Files Included
 - Sales_Dashboard.xlsx
-- sales_dashboard.png
+- Sales Dashboard.png
 
 ## Dashboard Preview
 
-![Dashboard](sales_dashboard.png)
+![Dashboard](Sales Dashboard.png)
